@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Sistema Medico</string>
+    <string name="editTextUsuario">Email</string>
+    <string name="editTextSenha">Senha</string>
+    <string name="btnOk">Login</string>
+    <string name="txtViewFoto">Foto de Perfil</string>
+    <string name="btnFoto">Carregar</string>
+    <string name="btnCadastro">Cadastrar</string>
+    <string name="textViewNome">Nome</string>
+    <string name="textViewCpf">CPF</string>
+    <string name="textViewIdade">Data de Nascimento</string>
+    <string name="btnAtualizar">Atualizar Perfil</string>
+    <string name="btnMarcarExame">Marcar Exame</string>
+
+    <string-array name="exames">
+        <item>Exame</item>
+        <item>Sangue</item>
+        <item>Próstata</item>
+        <item>Glicose</item>
+        <item>Pressão</item>
+    </string-array>
+
+    <string-array name="horarios">
+        <item>Horario</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+    </string-array>
+</resources>
